@@ -1,1 +1,1 @@
-# msp-autoclock project
+# msp-autoclock
